@@ -1,0 +1,4 @@
+biopython==1.83
+headloop==1.0.11
+melt==1.0.3
+numpy==1.24.4
